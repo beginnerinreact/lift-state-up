@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import { KomponentC } from './component/KomponentC';
+import { ComponentA } from './component/KomponentA';
 
 function App() {
   return (
-    <KomponentC/>
+    <ComponentA/>
   );
 }
 
